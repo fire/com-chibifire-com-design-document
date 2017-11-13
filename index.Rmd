@@ -1,15 +1,14 @@
 ---
-title: "A Book"
-author: "Frida Gomam"
+title: "150 Game"
+author: "K. S. Ernest (iFire) Lee"
 site: bookdown::bookdown_site
 documentclass: book
+classoption: b5paper
 output:
   bookdown::gitbook: default
   bookdown::pdf_book: default
 ---
 
-# Hello World
+# 150 Game
 
-Hi.
-
-Bye.
+This is a test.

@@ -11,6 +11,10 @@ output:
 
 # 150 Game
 
+This is the game.
+
+## Details
+
 Use swagger-codegen to read phoenix generated swagger apis.
 
 https://hexdocs.pm/phoenix_swagger/readme.html

@@ -13,6 +13,24 @@ output:
 
 This is the game.
 
+## Game
+
+Technical details:
+
+Use godot.
+
+## Server
+
+Technical details:
+
+Use server
+
+## Godot Network Services
+
+Technical details:
+
+Use elixir.
+
 ## Details
 
 Use swagger-codegen to read phoenix generated swagger apis.

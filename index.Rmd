@@ -15,26 +15,26 @@ This is the game.
 
 ## Game
 
-Technical details:
+Easy to launch into the game and find people to play with.
 
-Use godot.
+## Technical details
+
+Use godot. Use libyojimbo for encrypted reliable udp networking between client and server.
 
 ## Server
 
-Technical details:
+Migrate players to another server?
 
-Use server
+### Technical details
+
+Use godot compile server.
 
 ## Godot Network Services
 
-Technical details:
+Allow players to connect to a server. They should be able to join at any time.
+
+### Technical details
 
 Use elixir.
 
-## Details
-
-Use swagger-codegen to read phoenix generated swagger apis.
-
-https://hexdocs.pm/phoenix_swagger/readme.html
-
-https://github.com/swagger-api/swagger-codegen#to-generate-a-sample-client-library
+Authenticate the player via email / google apps / itchio auth
